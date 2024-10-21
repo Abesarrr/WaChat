@@ -36,8 +36,8 @@ document.getElementById('sendBtn').addEventListener('click', function() {
             replyText = 'dalem sayangku, cintaku, duniaku 😚';
         } else if (messageText.toLowerCase().includes('kangen')) {
             replyText = 'mas juga kangen banget sama ayang... 🥺';
-        } else if (messageText.toLowerCase().includes('semangat')) {
-            replyText = 'iya sayaangku, ayang juga semangat yaaa 😚';
+        } else if (messageText.toLowerCase().includes('loveyoumore')) {
+            replyText = 'makasih sayangku 😚';
         } else {
             replyText = 'Lanjut di whatsapp ori aja gasih sayaaangku ❤️';
         }
